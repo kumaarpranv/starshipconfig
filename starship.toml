@@ -19,3 +19,6 @@ not_found_symbol = "🔍 "
 format = '[\[$symbol$signal_name$maybe_int\]]($style) '
 map_symbol = true
 disabled = false
+
+[shell]
+style = 'cyan bold'
